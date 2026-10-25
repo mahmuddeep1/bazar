@@ -9,9 +9,20 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@better-auth/mongo-adapter": "^1.7.12",
+    "@gravity-ui/icons": "^2.23.0",
+    "@heroui/react": "^3.2.6",
+    "@heroui/styles": "^3.2.6",
+    "@tailwindcss/postcss": "^4.3.3",
+    "better-auth": "^1.7.12",
+    "framer-motion": "^14.6.0",
+    "lucide-react": "^1.61.0",
+    "mongodb": "^7.7.0",
     "next": "16.4.2",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "react-marquee-text": "^1.0.6",
+    "react-toastify": "^11.1.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
@@ -19,9 +30,10 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
+    "daisyui": "^5.7.50",
     "eslint": "^9",
     "eslint-config-next": "16.4.2",
-    "tailwindcss": "^4",
+    "tailwindcss": "^4.3.3",
     "typescript": "^5"
   }
 }
